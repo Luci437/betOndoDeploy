@@ -1,0 +1,9 @@
+/* **this will hide the main content if the user use anything other than mobile */
+@media only screen and (min-width: 601px) {
+    .errorMessage {
+        display: block;
+    }
+    .contentBox {
+        display: none;
+    }
+}

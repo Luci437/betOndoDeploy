@@ -1,0 +1,21 @@
+{
+    "payload - accountCreation" : {
+        "googleId": "eg: 104049826035271870096",
+        "name": "eg: Sachin Geo Jacob",
+        "email": "eg: sachingeojacob@gmail.com",
+        "imageUrl": "eg: https://lh3.googleusercontent.com/a-/AOh14GgHlmuvfC3_1vkxH83n3UmBvIm4p5TtSgyDk5Ya_nw=s96-c",
+        "modeOfJoin": "eg: default :: Google",
+        "points": "eg: default(100 when account is created)",
+        "active": "eg: true"
+    },
+    "payload - checkUserExists" : {
+        "googleId": "eg: 104049826035271870096"
+    },
+    "payload - createTeam" : {
+        "teamName": "eg: Portugal",
+        "teamLogo": "eg: link from firebase",
+        "teamCountryFlag": "eg: link from firebase",
+        
+    }
+}
+
